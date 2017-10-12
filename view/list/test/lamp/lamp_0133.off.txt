@@ -1,0 +1,14 @@
+19
+12
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.0.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.1.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.2.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.3.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.4.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.5.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.6.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.7.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.8.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.9.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.10.png
+/temp/view/classes/lamp/test/lamp_0133.off/lamp_0133.11.png

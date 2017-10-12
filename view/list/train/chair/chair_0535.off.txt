@@ -1,0 +1,14 @@
+8
+12
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.0.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.1.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.2.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.3.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.4.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.5.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.6.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.7.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.8.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.9.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.10.png
+/temp/view/classes/chair/train/chair_0535.off/chair_0535.11.png

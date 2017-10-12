@@ -1,0 +1,14 @@
+2
+12
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.0.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.1.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.2.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.3.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.4.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.5.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.6.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.7.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.8.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.9.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.10.png
+/temp/view/classes/bed/test/bed_0570.off/bed_0570.11.png

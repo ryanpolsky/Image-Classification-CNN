@@ -1,0 +1,14 @@
+8
+12
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.0.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.1.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.2.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.3.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.4.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.5.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.6.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.7.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.8.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.9.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.10.png
+/temp/view/classes/chair/test/chair_0967.off/chair_0967.11.png

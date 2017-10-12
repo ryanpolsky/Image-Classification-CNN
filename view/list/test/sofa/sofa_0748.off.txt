@@ -1,0 +1,14 @@
+30
+12
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.0.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.1.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.2.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.3.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.4.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.5.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.6.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.7.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.8.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.9.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.10.png
+/temp/view/classes/sofa/test/sofa_0748.off/sofa_0748.11.png

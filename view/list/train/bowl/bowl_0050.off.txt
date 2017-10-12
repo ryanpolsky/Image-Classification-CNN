@@ -1,0 +1,14 @@
+6
+12
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.0.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.1.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.2.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.3.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.4.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.5.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.6.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.7.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.8.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.9.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.10.png
+/temp/view/classes/bowl/train/bowl_0050.off/bowl_0050.11.png

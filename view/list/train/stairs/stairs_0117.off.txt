@@ -1,0 +1,14 @@
+31
+12
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.0.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.1.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.2.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.3.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.4.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.5.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.6.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.7.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.8.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.9.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.10.png
+/temp/view/classes/stairs/train/stairs_0117.off/stairs_0117.11.png

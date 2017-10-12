@@ -1,0 +1,14 @@
+25
+12
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.0.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.1.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.2.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.3.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.4.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.5.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.6.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.7.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.8.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.9.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.10.png
+/temp/view/classes/piano/train/piano_0049.off/piano_0049.11.png

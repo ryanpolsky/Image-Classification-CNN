@@ -1,0 +1,14 @@
+2
+12
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.0.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.1.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.2.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.3.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.4.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.5.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.6.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.7.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.8.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.9.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.10.png
+/temp/view/classes/bed/train/bed_0450.off/bed_0450.11.png

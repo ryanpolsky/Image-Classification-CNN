@@ -1,0 +1,14 @@
+20
+12
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.0.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.1.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.2.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.3.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.4.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.5.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.6.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.7.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.8.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.9.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.10.png
+/temp/view/classes/laptop/test/laptop_0160.off/laptop_0160.11.png

@@ -1,0 +1,14 @@
+3
+12
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.0.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.1.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.2.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.3.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.4.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.5.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.6.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.7.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.8.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.9.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.10.png
+/temp/view/classes/bench/train/bench_0020.off/bench_0020.11.png

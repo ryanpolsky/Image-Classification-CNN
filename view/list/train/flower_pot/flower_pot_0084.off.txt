@@ -1,0 +1,14 @@
+15
+12
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.0.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.1.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.2.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.3.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.4.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.5.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.6.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.7.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.8.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.9.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.10.png
+/temp/view/classes/flower_pot/train/flower_pot_0084.off/flower_pot_0084.11.png
